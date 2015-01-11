@@ -16,6 +16,15 @@
 * [Pencil Code](http://dev.pencilcode.net/)
 * [Adafruit](https://learn.adafruit.com/)
 
+## iPads Apps teach how to code
+* [Website Adventure](http://codarica.com/)
+* [Circuit Coder](https://itunes.apple.com/us/app/circuit-coder/id492180472?mt=8)
+* [Play with code](http://codespark.org/)
+* [Learn program by making awesome things](http://www.gethopscotch.com/)
+* [Programming for kids](http://movetheturtle.com/)
+* [Robo logic 2D HD](https://itunes.apple.com/us/app/robo-logic-2-hd/id380877318?mt=8)
+* [Coding for young childer](http://www.scratchjr.org/)
+
 ## Ruby for kids
 * [Kids Ruby](http://kidsruby.com/)
 * [Ruby 4 Kids](http://ruby4kids.com/ruby4kids)
