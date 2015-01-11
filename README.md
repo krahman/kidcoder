@@ -2,7 +2,7 @@
 
 ## Inspiring Videos
 * [Code.org: What most schools don't teach](https://www.youtube.com/watch?v=nKIu9yen5nc&sns=tw)
-* 
+
 ## General resources:
 * [Scratch](http://scratch.mit.edu/)
 * [Coder Dojo LA](http://www.coderdojola.com/coderdojo-la-coding-resources/)
