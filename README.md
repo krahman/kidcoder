@@ -1,8 +1,7 @@
 # Kids Coder
 
 ## Inspiring Videos
-* [Code.org: What most schools don't teach](https://www.youtube.com/watch?v=nKIu9yen5nc&sns=tw)
-<a href="https://www.youtube.com/embed/nKIu9yen5nc
+* <a href="https://www.youtube.com/watch?v=nKIu9yen5nc&sns=tw
 " target="_blank"><img src="http://img.youtube.com/vi/nKIu9yen5nc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
